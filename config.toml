@@ -1,0 +1,4 @@
+baseURL = "https://poemsenglish677.vercel.app"
+languageCode = "en-us"
+title = "Mother Poems in English"
+theme = "tale-hugo-master"
